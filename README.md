@@ -1,4 +1,4 @@
-# Retail-industry-project
+# Retail-industry-project - Resume project by codebasics
 Analyse Promotions and Provide Tangible Insights to Sales Director of a retail 
 
 Domain:  FMCG       Function: Sales / Promotions
